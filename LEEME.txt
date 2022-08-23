@@ -1,1 +1,5 @@
 Bienvenido a mi archivo de texto
+<html>
+	<head>
+	</head>
+</html>
